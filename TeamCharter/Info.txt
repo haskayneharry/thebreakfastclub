@@ -1,1 +1,9 @@
-Information
+# Information
+The TeamCharter is a document that provides a group overview, a summary about the group vision, and It also includes a little bit about the group members, such as everyone's strengths and weaknesses, what are we willing to provide on the table, what are we expecting to learn from group work, and our goals about our finalized project.
+
+## Key Points:
+> Correctly Formatted
+> Original Art Work for the Logo
+> Signed by every Group Member
+
+(Note: This TeamCharter is made for Fall 2023 - SGMA 217 Lec03 by the Group No. 3. Feel free to take any ideas as it's public under the GNU General Public license. We believe in free and open-source information and are willing to contribute more as time goes on.)
