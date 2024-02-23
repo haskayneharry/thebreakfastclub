@@ -1,0 +1,162 @@
+{
+    "name": "Midnight Orange",
+    "description": "We love Orange :3",
+    "authors": [
+        {
+            "name": "caffeinepyroxene",
+            "id": "1089182836713603242"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ed6a19" -ORG
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#ed6a19"
+        ],
+        "TEXT_LINK": [
+            "#ed6a19"
+        ],
+        "TEXT_DANGER": [
+            "#ed6a19"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ed6a19"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#ed6a19"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#e6ed6a19"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ed6a19"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "BG_BACKDROP": [
+            "#000000"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#ed6a19"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#000000"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#ed6a19"
+        ],
+        "CHANNEL_ICON": [
+            "#ed6a19"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#ed6a19",
+        "PRIMARY_500": "#ed6a19",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#ed6a19",
+        "BRAND_360": "#ed6a19",
+        "BRAND_500": "#ed6a19",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#ed6a19",
+        "YELLOW_300": "#ed6a19",
+        "ORANGE_345": "#ed6a19",
+        "GREEN_345": "#ed6a19",
+        "GREEN_360": "#ed6a19",
+        "RED_560" : "#ed6a19",
+        "RED_400": "#ed6a19"
+    },
+    "spec": 2,
+    "background": {
+        "color": "#000000"
+    },
+ "fonts":{
+  "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-Bold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-ExtraBold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-ExtraBoldItalic": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-Medium": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-Normal": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-Semibold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "NotoSans-Bold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "NotoSans-ExtraBold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "NotoSans-Medium": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "NotoSans-Normal": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "NotoSans-NormalItalic": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "NotoSans-Semibold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&",
+  "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/1110790602003587163/1210406082350948392/Comfortaa-VariableFont_wght.ttf?ex=65ea7182&is=65d7fc82&hm=0b7e3feef6e082bcf5e7270fa9d4396535ef50e4a01b3873c8abf30a42c463cc&"
+ },
+}
